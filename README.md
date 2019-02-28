@@ -3,7 +3,7 @@ Python Wrapper Pipeline
 
 Required Programs: Python3, SPAdes, Prokka, Bowtie2, TopHat, Cufflinks
 
-Instructions: Download Wrapper.py and move to desired location. Use python command: python3 Wrapper.py. This will execute the Wrapper/Pipeline, which will generate a new directory for results called ~/OptionA_Conrad_Kurowski in the current path. 
+Instructions: Download Wrapper.py and move to desired location. Use terminal command: python3 Wrapper.py. This will execute the Wrapper/Pipeline, which will generate a new directory for results called ~/OptionA_Conrad_Kurowski in the current path. 
 WARNING: this pipeline uses computationally intensive programs. Please allow pipeline to fully execute before attempting to close. Some steps, such as TopHat, can take hours to complete. 
 
 Output:
